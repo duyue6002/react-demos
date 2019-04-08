@@ -6,6 +6,7 @@ import Hello from "./Hello";
 // import { TabSelectorSample } from "./c02/TabSelector";
 // import { StatefulTabSelectSample } from "./c02/StatefulTabSelector";
 import Clock from "./01_clock/Clock";
+import Snapshot from './02_Snapshot/Snapshot';
 // import SnapshotSample from "./c04/SnapshotSample";
 // import DomDiff from "./c05/DomDiff";
 // import { AdvancedTabSelectorSample } from "./c06/AdvancedTabSelector";
@@ -48,7 +49,8 @@ const styles = {
 };
 
 const routeMap = {
-  clock: Clock
+  clock: Clock,
+  Snapshot: Snapshot
 };
 // const routeMap = {
 //   chat: ChatApp,
