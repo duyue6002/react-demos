@@ -1,3 +1,3 @@
-# Headline
+# React Demos
 
-> An awesome project.
+> Great React Demos

@@ -1,2 +1,2 @@
 * [Home](/)
-* [Guide](guide.md)
+* [Clock](clock.md)
